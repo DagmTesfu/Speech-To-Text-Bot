@@ -22,7 +22,7 @@ This Python-powered bot transcribes voice messages into text. 📝✨
 ## 🚀 Getting Started
 
 ### 1. Clone the Repo
-`git clone https://github.com`
+`git clone https://github.com/DagmTesfu`
 
 ### 2. Set Up Environment
 ```bash
@@ -38,4 +38,4 @@ pip install -r requirements.txt
 3. Run the bot: `python bot.py`
 
 ---
-**Made with ❤️ by [Dagmawi Tesfu](https://github.com)**
+**Made with ❤️ by [Dagmawi Tesfu](https://github.com/DagmTesfu)**
